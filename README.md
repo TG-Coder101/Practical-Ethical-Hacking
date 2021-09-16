@@ -20,3 +20,5 @@ Topics Covered:
 16. Wireless Penetration Testing Basics
 17. Legal Documentation and Report Writing
 18. Career Advice
+
+https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
